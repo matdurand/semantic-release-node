@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "repository": "https://github.com/matdurand/semantic-release-node",
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/git": "^7.0.12",
+    "semantic-release": "^15.13.16"
+  }
 }
