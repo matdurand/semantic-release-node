@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/matdurand/semantic-release-node/compare/v1.4.0...v1.4.1) (2019-09-13)
+
+
+### Bug Fixes
+
+* semantic release config ([c97a37f](https://github.com/matdurand/semantic-release-node/commit/c97a37f))
+
 # [1.4.0](https://github.com/matdurand/semantic-release-node/compare/v1.3.0...v1.4.0) (2019-09-13)
 
 
